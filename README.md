@@ -17,7 +17,7 @@ Now that you know what **moe** means, let's make it yours!
 
 ## Claim your own **its.moe** subdomain!
 Want your own subdomain at **its.moe** to host your own moe-related content?  
-Email me at [yoru@its.moe](mailto:yoru@its.moe).
+Email me at [yoru@its.moe](mailto:yoru@its.moe).  
 Please include:
 - Your GitHub username.
 - The subdomain you are requesting.
