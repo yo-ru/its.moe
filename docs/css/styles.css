@@ -61,16 +61,17 @@ body {
 }
 
 /*
- * Pastel
+ * Mascot
  */
-#pastel {
+#mascot {
   position: fixed;
   bottom: 0px;
-  left: 65%;
+  left: 69%;
+  width: 32%;
 }
 
-@media (max-width: 1200px) {
-  #pastel {
+@media (max-width: 1000px) {
+  #mascot {
     display: none;
   }
 }
