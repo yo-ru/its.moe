@@ -21,7 +21,7 @@ Email me at [yoru@its.moe](mailto:yoru@its.moe) or DM me on Discord at **Yoru#91
 Please include:
 - Your GitHub username.
 - The subdomain you are requesting.
-- The nameservers you would like it to point to.
+- The IP you would like it to point to.
 
 ## FAQ
 - Does it cost money to get my own **its.moe** subdomain?
