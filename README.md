@@ -1,4 +1,4 @@
-<img align="center" alt="Courtesy of .moe TLD" src="https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/s960x960/141031032_2831371733743149_6036056380162876638_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=V2gXzU5HMygAX-kra5M&_nc_ht=scontent-atl3-2.xx&oh=d46ebd734dd25517a579e2cbba324c44&oe=61572678" />
+<img align="center" alt="Courtesy of .moe TLD" src="hhttps://get.moe/assets19/images/share.jpg" />
 
 # its.moe
 What's your **moe**? Let's make it yours.
@@ -22,6 +22,9 @@ Please include:
 - Your GitHub username.
 - The subdomain you are requesting.
 - The IP you would like it to point to.
+
+## Our patrons!
+- https://becca.its.moe
 
 ## FAQ
 - Does it cost money to get my own **its.moe** subdomain?
