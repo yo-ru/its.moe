@@ -1,4 +1,4 @@
-<img align="center" alt="Courtesy of .moe TLD" src="hhttps://get.moe/assets19/images/share.jpg" />
+<img align="center" alt="Courtesy of .moe TLD" src="https://get.moe/assets19/images/share.jpg" />
 
 # its.moe
 What's your **moe**? Let's make it yours.
