@@ -24,6 +24,7 @@ Please include:
 - The IP you would like it to point to.
 
 ## Our patrons!
+- https://bot.its.moe
 - https://becca.its.moe
 
 ## FAQ
