@@ -26,6 +26,7 @@ Please include:
 ## Our patrons!
 - https://bot.its.moe
 - https://becca.its.moe
+- https://uwu.its.moe
 
 ## FAQ
 - Does it cost money to get my own **its.moe** subdomain?
