@@ -17,24 +17,15 @@ Now that you know what **moe** means, let's make it yours!
 
 ## Claim your own **its.moe** subdomain!
 Want your own subdomain at **its.moe** to host your own moe-related content?  
-Email me at [yoru@its.moe](mailto:yoru@its.moe) or DM me on Discord at **Yoru#9197**.  
-Please include:
-- Your GitHub username.
-- The subdomain you are requesting.
-- The IP you would like it to point to. (We also support CNAME records.)
-
-## Our patrons!
-- https://bot.its.moe
-- https://uwu.its.moe
+Join our [discord](https://discord.com/invite/UybGG3tD7q) and get started with `/subdomain register`.
 
 ## FAQ
 - Does it cost money to get my own **its.moe** subdomain?
   - Nope, not at all.
 - Can I have more than one **its.moe** subdomain?
-  - No, I'm currently limiting it to one per person.
+  - Sort of, I'm currently limiting it to one per person, Ko-Fi subscribers get five.
   - Special cases can be made on a need-by-need basis.
 - I emailed you but didn't get a response?
-  - If there are a lot of requests, I may have not gotten to yours yet.
-  - If it seems like there are not that many requests, open an issue.
+  - Requests are now being handled in our discord server. Join with the link above.
 
 
